@@ -1,5 +1,5 @@
 // Mỗi file code cần đc define là 1 package
-package fmt_code
+package fmt_lib
 
 // Package fmt cung cấp các hàm để đọc ghi dữ liệu
 import "fmt"
