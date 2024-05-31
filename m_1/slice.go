@@ -1,4 +1,4 @@
-package basic
+package m_1
 
 // Slice giống list, là array có thể thay đổi độ dài
 func slice() {

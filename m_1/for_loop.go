@@ -1,5 +1,5 @@
 // For loop là loại loop duy nhất cuả Go
-package basic
+package m_1
 
 import "fmt"
 
