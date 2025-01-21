@@ -16,6 +16,13 @@ func add2(a int, b int) (sum int) { // here we are defining the variable name of
 	return // so no need for return a value, just call return to end function
 }
 
+// Đặt tên cho return, modify rồi return cùng lúc
+func swap(a, b int) (x int, y int) {
+	x = a
+	y = b
+	return
+}
+
 func call_func() {
 	fmt.Println(add(1, 2))
 
